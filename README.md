@@ -3,6 +3,7 @@
 A new Flutter project.
 
 ## Getting Started
+Pastikan database_connection host dan port sesuai dengan laptop anda sebelum running project!
 
 This project is a starting point for a Flutter application.
 
